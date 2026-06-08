@@ -1,4 +1,4 @@
-
+SIH
 
 Sure! Here’s a **clean, easy-to-understand description** of your website **[https://beamish-bunny-c96f72.netlify.app/](https://beamish-bunny-c96f72.netlify.app/)** that explains how it works, its features, UI, modes, and more — suitable for documentation, presentations, or public reading.
 
